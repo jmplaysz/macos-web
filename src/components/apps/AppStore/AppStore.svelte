@@ -39,6 +39,7 @@
 				src="/emojis/wink.png"
 				alt="Wink Emoji"
 			/>
+<button>+</button>
 		</h1>
 	</section>
 </section>
